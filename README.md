@@ -7,6 +7,7 @@ Part of the powertrain models, data, and results are public to https://github.co
 (a) The HIL platform
 ![HIL platform](https://github.com/KaysenC/Enhanced-Applicability-of-RL-Based-Energy-Management-for-Hybrid-Powertrain-Systems/assets/68646204/6f05eb81-8566-4909-b647-23279607235c)
 (b) The HIL connection
-Fig. Hardware-in-the-loop experiment.
+
+Figure. Hardware-in-the-loop experiment.
 
 Once the paper is accepted, more data will be uploaded and public. Furthermore, if you have any questions, please contact email: 20220701066@stu.cqu.edu.cn
