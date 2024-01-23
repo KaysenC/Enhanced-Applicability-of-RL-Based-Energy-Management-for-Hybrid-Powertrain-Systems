@@ -3,7 +3,7 @@ Deep reinforcement learning (DRL) algorithms play a vital force in promoting the
 
 ![sjiojfewagoegjfi](https://github.com/KaysenC/Enhanced-Applicability-of-RL-Based-Energy-Management-for-Hybrid-Powertrain-Systems/assets/68646204/0aacaf60-5354-4bec-a8d4-c5867ed3906b)
 (a) The HIL platform
-![HIL platform](https://github.com/KaysenC/Enhanced-Applicability-of-RL-Based-Energy-Management-for-Hybrid-Powertrain-Systems/assets/68646204/bc9e7129-669d-4420-bd64-f23e0fd58ea4)
+![HIL platform](https://github.com/KaysenC/Enhanced-Applicability-of-RL-Based-Energy-Management-for-Hybrid-Powertrain-Systems/assets/68646204/660a365e-ccde-4c49-902d-776daec306dd)
 (b) The HIL connection
 Fig. Hardware-in-the-loop experiment.`
 
